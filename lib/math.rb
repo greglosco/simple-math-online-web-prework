@@ -10,7 +10,7 @@ def division(num1, num2)
   50/2
 end
 
-def multiplication
+def multiplication(num1, num2)
   4*30
 end
 
